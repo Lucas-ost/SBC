@@ -1,0 +1,95 @@
+#navbar #logomarca {
+height: 200px;
+wwidht: 100%;
+border-bottom: 4px solid #ea15ed;
+background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTVb5c_gdpySBWaorEG0rRgr_rgjd3MVSKJ8Y8LM1_PuIgcWfs0);
+}
+#navbar #menus{
+  height:40px;
+  border-bottom:2px solid #ea15ed;
+}
+
+#navbar #menus div {
+  border: 1px solid #ea15ed;
+width: 33%;
+float:left;
+text-align: center;
+height: 40px;
+line-height: 40px;
+}
+#conteudo .text {
+text-align: justify;
+width: 45%;
+float: right;
+font-size: 22;
+font-family: fantasy;
+padding: 22px;
+}
+#conteudo .image {
+
+  float: left;
+  width: 30%;
+  padding: 12px;
+
+}
+
+#conteudo .imagex {
+  float: right;
+  width : 45%;
+display: flex;
+align-items: center;
+justify-content: center;
+height: 500px;
+}
+#conteudo .texto{
+  text-align: justify;
+width: 50%;
+  float:left;
+  font-size: 22;
+  font-family: fantasy;
+}
+
+ #patrão {
+font-size: 22;
+
+
+}
+
+#produtos div {
+  border: 2px solid #ea15ed;
+  height: 500px;
+}
+
+#produtos .text {
+  width: 40%;
+  height:50%;
+  font-size: 22;
+  font-style: fantasy;
+  float:left;
+  padding-left: 2%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 500px;
+
+}
+
+#produtos .image {
+  width: 50%;
+float: right;
+
+
+}
+#produtos .image img {
+  height: 100%;
+  width: 100%;
+}
+.caixa {
+  border: 6px solid #ea15ed;
+  width: 49%;
+  float:left;
+  font-size: 22;
+  font-style: fantasy;
+ margin-left: 8px;
+ height:400px;
+}
